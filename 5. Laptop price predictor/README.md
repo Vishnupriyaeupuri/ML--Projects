@@ -4,6 +4,8 @@
 
 
   Predicting laptop prices based on specifications using machine learning algorithms.
+  ![Laptop_price prediction](https://github.com/Vishnupriyaeupuri/ML--Projects/assets/112987407/d5df1eaa-b0e7-4d43-a859-3f7422411534)
+
 
 
 ## Table Of Contents
@@ -64,6 +66,12 @@ Key insights from EDA include:
 - Correlation between RAM size and price
 - Influence of processor type and graphics card on pricing
 - Market trends related to operating systems and their pricing implications
+  ![Screenshot 2024-07-08 123639](https://github.com/Vishnupriyaeupuri/ML--Projects/assets/112987407/70e7c948-6284-48d3-b3ee-67f99c1b5b23)
+  ![Screenshot 2024-07-08 123655](https://github.com/Vishnupriyaeupuri/ML--Projects/assets/112987407/476e3949-831d-4413-87ec-bcee9e45777e)
+ 
+  ![Screenshot 2024-07-08 123716](https://github.com/Vishnupriyaeupuri/ML--Projects/assets/112987407/56f0d23b-d18b-4633-b100-bf448a87a1a0)
+
+
 
 <!-- Feature Engineering -->
 ## Feature Engineering
@@ -93,6 +101,11 @@ Achieved best performance with XGBoost Regressor:
 Deployed the XGBoost Regressor model as a web application using Streamlit:
 - Allows users to input laptop specifications and receive predicted prices
 - Enhances user experience with an intuitive interface
+
+  ![Laptop Price Predictor](https://github.com/Vishnupriyaeupuri/ML--Projects/assets/112987407/0ab41f28-3c15-4a03-9dff-2911c3a0d18e)
+
+
+
 
 <!-- Conclusion -->
 ## Conclusion
